@@ -1,0 +1,4 @@
+com/vizor/test/ViewPicture.java
+ com.vizor.test.ViewPicture
+com/vizor/test/Main.java
+ com.vizor.test.Main
